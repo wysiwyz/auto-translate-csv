@@ -1,0 +1,36 @@
+﻿#,kind,res_code,code_msg,description,code_msg_zh-cn,description_zh-cn
+1,"Sandoval, Boyd and Wilson",LGB-###,Unsupported browser,Your current browser version is not supported. Please upgrade to a more recent version.,不支持的浏览器,不支持您当前的浏览器版本。请升级到更新版本。
+2,"Hayden, Clark and Anderson",YMD-###,Email delivery failed,The system was unable to send the email. Verify the recipient's address and check your email configuration.,电子邮件发送失败,系统无法发送电子邮件。验证收件人地址并检查您的电子邮件配置。
+3,Friedman LLC,UAA-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
+4,"Jordan, Bowman and Becker",VMW-###,Session expired,The user's session has timed out due to inactivity. Please log in again to continue.,会话已过期,用户的会话由于不活动而超时。请重新登录以继续。
+5,"Gutierrez, Ortiz and Michael",UAA-###,Invalid input format,The data provided does not match the expected format. Please review the input requirements and try again.,输入格式无效,提供的数据与预期格式不匹配。请检查输入要求并重试。
+6,Solis PLC,QKW-###,Unsupported browser,Your current browser version is not supported. Please upgrade to a more recent version.,不支持的浏览器,不支持您当前的浏览器版本。请升级到更新版本。
+7,Moore Inc,QAK-###,Payment processing failed,The transaction could not be completed. Please check your payment information and try again.,付款处理失败,交易无法完成。请检查您的付款信息并重试。
+8,Peterson-Jones,RCI-###,API rate limit exceeded,The number of API requests has surpassed the allowed limit. Please wait before making additional requests.,超出 API 速率限制,API请求数量超过允许的限制。请稍候后再提出其他请求。
+9,Carlson Group,YMD-###,File not found,The requested file could not be located in the specified directory. Please check the file path and permissions.,文件未找到,无法在指定目录中找到请求的文件。请检查文件路径和权限。
+10,"Burke, Graham and White",OXO-###,API rate limit exceeded,The number of API requests has surpassed the allowed limit. Please wait before making additional requests.,超出 API 速率限制,API请求数量超过允许的限制。请稍候后再提出其他请求。
+11,Roach PLC,OXO-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
+12,Stark Ltd,LGB-###,Database connection error,The application failed to establish a connection with the database. This may be due to network issues or incorrect configuration.,数据库连接错误,应用程序无法与数据库建立连接。这可能是由于网络问题或配置不正确造成的。
+13,"Williams, Scott and Ward",LGB-###,Unsupported browser,Your current browser version is not supported. Please upgrade to a more recent version.,不支持的浏览器,不支持您当前的浏览器版本。请升级到更新版本。
+14,Hart-Christensen,YMD-###,Session expired,The user's session has timed out due to inactivity. Please log in again to continue.,会话已过期,用户的会话由于不活动而超时。请重新登录以继续。
+15,Garza Inc,AIV-###,Server overload,The server is currently experiencing high traffic and cannot process the request. Try again later.,服务器过载,服务器当前流量较高，无法处理请求。稍后再试。
+16,Conley Ltd,OXO-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
+17,"White, Hampton and Andrade",MGR-###,Data validation error,One or more fields contain invalid data. Please review the form and correct any errors.,数据验证错误,一个或多个字段包含无效数据。请检查表格并更正任何错误。
+18,Stevenson Group,QKW-###,User authentication failed,The system was unable to verify the user's credentials. This could be due to an incorrect username or password.,用户身份验证失败,系统无法验证用户的凭据。这可能是由于用户名或密码不正确造成的。
+19,Anderson-Savage,LGB-###,Invalid input format,The data provided does not match the expected format. Please review the input requirements and try again.,输入格式无效,提供的数据与预期格式不匹配。请检查输入要求并重试。
+20,"Perez, Ray and Cooper",TEQ-###,Data validation error,One or more fields contain invalid data. Please review the form and correct any errors.,数据验证错误,一个或多个字段包含无效数据。请检查表格并更正任何错误。
+21,"Peterson, Rodriguez and Butler",CFF-###,Database connection error,The application failed to establish a connection with the database. This may be due to network issues or incorrect configuration.,数据库连接错误,应用程序无法与数据库建立连接。这可能是由于网络问题或配置不正确造成的。
+22,"Middleton, Anderson and Rodriguez",UAA-###,Email delivery failed,The system was unable to send the email. Verify the recipient's address and check your email configuration.,电子邮件发送失败,系统无法发送电子邮件。验证收件人地址并检查您的电子邮件配置。
+23,Bowers Group,OXO-###,Payment processing failed,The transaction could not be completed. Please check your payment information and try again.,付款处理失败,交易无法完成。请检查您的付款信息并重试。
+24,Powell and Sons,AIV-###,Session expired,The user's session has timed out due to inactivity. Please log in again to continue.,会话已过期,用户的会话由于不活动而超时。请重新登录以继续。
+25,White LLC,UAA-###,Invalid input format,The data provided does not match the expected format. Please review the input requirements and try again.,输入格式无效,提供的数据与预期格式不匹配。请检查输入要求并重试。
+26,Cooley and Sons,QKW-###,Unsupported browser,Your current browser version is not supported. Please upgrade to a more recent version.,不支持的浏览器,不支持您当前的浏览器版本。请升级到更新版本。
+27,Kim-Robinson,VMW-###,Payment processing failed,The transaction could not be completed. Please check your payment information and try again.,付款处理失败,交易无法完成。请检查您的付款信息并重试。
+28,"Jones, Ashley and Miller",LGB-###,Email delivery failed,The system was unable to send the email. Verify the recipient's address and check your email configuration.,电子邮件发送失败,系统无法发送电子邮件。验证收件人地址并检查您的电子邮件配置。
+29,"West, Spence and Roberts",CFF-###,Payment processing failed,The transaction could not be completed. Please check your payment information and try again.,付款处理失败,交易无法完成。请检查您的付款信息并重试。
+30,Huffman-Schultz,QAK-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
+31,Jacobs Group,UAA-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
+32,Ramos-Santana,QAK-###,Invalid input format,The data provided does not match the expected format. Please review the input requirements and try again.,输入格式无效,提供的数据与预期格式不匹配。请检查输入要求并重试。
+33,"Thomas, Ward and Hodges",MGR-###,Database connection error,The application failed to establish a connection with the database. This may be due to network issues or incorrect configuration.,数据库连接错误,应用程序无法与数据库建立连接。这可能是由于网络问题或配置不正确造成的。
+34,Sullivan and Sons,OXO-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
+35,"Swanson, Rivas and Chase",MGR-###,Insufficient permissions,The current user does not have the necessary rights to perform this action. Contact an administrator for assistance.,权限不足,当前用户没有执行此操作所需的权限。请联系管理员寻求帮助。
